@@ -11,6 +11,8 @@ author_profile: true
 
 {% endif %}
 
-{% for post in site.talks reversed %}
+<!-- {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
-{% endfor %}
+{% endfor %} -->
+
+1. Using Hugging Face Transformers for NLP Tasks on Google Colab at Rajiv Gandhi Proudyogiki Vishwavidyalaya, Madhya Pradesh, India on 27 June 2022.
