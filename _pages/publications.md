@@ -15,4 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Hi this is a test publication.
+1. T. Ghosal, S. K. Das, and S. Bhattacharjee, “Sentiment analysis on (bengali
+horoscope) corpus,” in 2015 Annual IEEE India Conference (INDICON), pp. 1–6, 2015.
+2. S. Bhattacharjee, A. Das, U. Bhattacharya, S. K. Parui, and S. Roy, “Sentiment analysis using cosine similarity measure,” in 2nd IEEE International
+Conference on Recent Trends in Information Systems, ReTIS 2015, Kolkata, India, July 9-11, 2015, pp. 27–32, IEEE, 2015.
