@@ -11,4 +11,20 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Currently teaching [ICT](https://www.gtu.ac.in/Syllabus/Syllabus.aspx) to the students of second year diploma in Information Technology.
+## Spring 2022
+
+| Subject             | Semester    |Syllabus                                                     |
+| --------            | ----------- | ------------------------------------------------------------ |
+| Subject 1           | I        | Description of the item in the list                          |
+| Subject 2           | III        | Description of the item in the list                          |
+| Subject 3           | V        | Description of the item in the list                          |
+
+## Autumn 2022
+
+## Spring 2021
+
+## Autumn 2021
+
+## Spring 2020
+
+## Autumn 2020
