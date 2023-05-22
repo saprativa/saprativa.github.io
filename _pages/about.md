@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I will be starting my PhD in Natural Language Processing at IIT Bombay from July 2023. I am a Lecturer at [Government Polytechnic Daman](https://gpdaman.in/). I teach in the Department of Information Technology. Prior to this, I worked as an Assistant Professor at [Sikkim Manipal Institute of Technology](https://smu.edu.in/smit.html/). During my M.Tech. I worked on an industry sponsored project on Sentiment Analysis at [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/).
+Welcome to my homepage! I will be starting my PhD in Natural Language Processing at [IIT Bombay](https://www.iitb.ac.in/) from July 2023. I am also a Lecturer in Information Technology at [Government Polytechnic Daman](https://gpdaman.in/). I was selected for the Lecturer position through [UPSC](https://www.upsc.gov.in/). Prior to that, I worked as an Assistant Professor at [Sikkim Manipal Institute of Technology](https://smu.edu.in/smit.html/). During my M.Tech. I worked on an industry sponsored project on Sentiment Analysis at [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/). I completed my undergrad and postgrad from [Assam University, Silchar](http://www.aus.ac.in/).
 
 
 ## Contact Me
