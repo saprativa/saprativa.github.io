@@ -17,7 +17,7 @@ author_profile: true
 | --------                          | ----------- | ---------------------------------------------- |
 | Environment and Sustainability    | II          | [C4300003](/files/syllabus/C4300003.pdf)       |
 | Web Development using PHP         | IV          | [4341604](/files/syllabus/4341604.pdf)         |
-| Web Designing using PHP AND MySQL | VI          | [3361603](/files/syllabus/3361603.pdf)         |
+| Web Designing using PHP and MySQL | VI          | [3361603](/files/syllabus/3361603.pdf)         |
 
 ## Autumn 2022
 
