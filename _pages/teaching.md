@@ -13,11 +13,11 @@ author_profile: true
 
 ## Spring 2022
 
-| Subject             | Semester    |Syllabus                                                     |
+| Subject             | Semester    |Subject Code and Syllabus                                     |
 | --------            | ----------- | ------------------------------------------------------------ |
-| Subject 1           | I        | Description of the item in the list                          |
-| Subject 2           | III        | Description of the item in the list                          |
-| Subject 3           | V        | Description of the item in the list                          |
+| Environment and Sustainability          | II        | [C4300003](/files/syllabus/C4300003.pdf)                         |
+| Web Development using PHP          | IV        | [4341604](/files/syllabus/4341604.pdf)                          |
+| Web Designing using PHP AND MySQL          | VI        | [3361603](/files/syllabus/3361603.pdf)                          |
 
 ## Autumn 2022
 
