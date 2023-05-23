@@ -42,4 +42,57 @@ author_profile: true
 
 ## Spring 2020
 
+| Subject                             | Semester    |Subject Code and Syllabus                       |
+| --------                            | ----------- | ---------------------------------------------- |
+| Information Communication Technology| IV          | [3341601](/files/syllabus/3341601.pdf)         |
+| Web Designing using PHP and MySQL   | VI          | [3361603](/files/syllabus/3361603.pdf)         |
+
 ## Autumn 2020
+
+| Subject                           | Semester    |Subject Code and Syllabus                       |
+| --------                          | ----------- | ---------------------------------------------- |
+| Fundamental Computer Application  | I           | [3310703](/files/syllabus/3310703.pdf)         |
+| Computer Graphics                 | III         | [3331602](/files/syllabus/3331602.pdf)         |
+
+
+## Spring 2019
+
+| Subject                             | Semester    |Subject Code and Syllabus                       |
+| --------                            | ----------- | ---------------------------------------------- |
+| Information Communication Technology| IV          | [3341601](/files/syllabus/3341601.pdf)         |
+| Web Designing using PHP and MySQL   | VI          | [3361603](/files/syllabus/3361603.pdf)         |
+
+## Autumn 2019
+
+| Subject                           | Semester    |Subject Code and Syllabus                       |
+| --------                          | ----------- | ---------------------------------------------- |
+| Fundamental Computer Application  | I           | [3310703](/files/syllabus/3310703.pdf)         |
+| Computer Graphics                 | III         | [3331602](/files/syllabus/3331602.pdf)         |
+
+## Spring 2018
+
+| Subject                             | Semester    |Subject Code and Syllabus                       |
+| --------                            | ----------- | ---------------------------------------------- |
+| Information Communication Technology| IV          | [3341601](/files/syllabus/3341601.pdf)         |
+| Object Oriented Programming         | IV          | [3341602](/files/syllabus/3341602.pdf)         |
+
+## Autumn 2018
+
+| Subject                                       | Semester    |Subject Code and Syllabus                 |
+| --------                                      | ----------- | -----------------------------------------|
+| Environment Conservation & Hazard Management  | I           | [3300003](/files/syllabus/3300003.pdf)   |
+| Computer Programming Lab                      | I           | [3310701](/files/syllabus/3310701.pdf)   |
+| Computer Graphics                             | III         | [3331602](/files/syllabus/3331602.pdf)   |
+
+## Spring 2017
+
+| Subject                                    | Semester    |Subject Code and Syllabus                    |
+| --------                                   | ----------- | --------------------------------------------|
+| Advanced Computer Programming Lab          | II          | [3320702](/files/syllabus/3320702.pdf)      |
+| Information Communication Technology Theory| IV          | [3341601](/files/syllabus/3341601.pdf)      |
+
+## Autumn 2017
+
+| Subject                                       | Semester    |Subject Code and Syllabus                 |
+| --------                                      | ----------- | -----------------------------------------|
+| Computer Programming                          | I           | [3310701](/files/syllabus/3310701.pdf)   |
