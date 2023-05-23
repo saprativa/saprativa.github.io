@@ -10,7 +10,15 @@ redirect_from:
 {% include base_path %}
 
 
-Will be updated soon!
+Also available [here](https://saprativa.github.io/files/cv.pdf).
+
+
+<object data="https://saprativa.github.io/files/cv.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://saprativa.github.io/files/cv.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://saprativa.github.io/files/cv.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 
 <!-- Education
 ======
