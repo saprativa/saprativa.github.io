@@ -102,7 +102,7 @@ author_profile: true
 
 | Subject                                       | Semester    |Subject Code and Syllabus                 |
 | --------                                      | ----------- | -----------------------------------------|
-| Computer Networks                             | I           | [EC3023](/files/syllabus/EC3023.pdf)     |
+| Computer Networks                             | VI          | [EC3023](/files/syllabus/EC3023.pdf)     |
 
 
 ## Autumn 2013 to Spring 2016 at Sikkim Manipal Institute of Technology
