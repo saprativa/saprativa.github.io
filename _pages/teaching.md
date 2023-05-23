@@ -96,3 +96,15 @@ author_profile: true
 | Subject                                       | Semester    |Subject Code and Syllabus                 |
 | --------                                      | ----------- | -----------------------------------------|
 | Computer Programming                          | I           | [3310701](/files/syllabus/3310701.pdf)   |
+
+
+## Spring 2015 at National Institute of Technology Sikkim
+
+| Subject                                       | Semester    |Subject Code and Syllabus                 |
+| --------                                      | ----------- | -----------------------------------------|
+| Computer Networks                             | I           | [EC3023](/files/syllabus/EC3023.pdf)     |
+
+
+## Autumn 2013 to Spring 2016 at Sikkim Manipal Institute of Technology
+
+I taught the following subjects: Data Communication, Software Engineering, Microprocessor Lab, Microcontroller, Digital Circuits and Logic Design, Formal Language and Automata, Databse Management Systems Lab, Operating System, System Programming, Web Technology & Web Services.
