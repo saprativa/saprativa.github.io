@@ -28,7 +28,17 @@ author_profile: true
 
 ## Spring 2021
 
+| Subject                             | Semester    |Subject Code and Syllabus                       |
+| --------                            | ----------- | ---------------------------------------------- |
+| Information Communication Technology| IV          | [3341601](/files/syllabus/3341601.pdf)         |
+| Web Designing using PHP and MySQL   | VI          | [3361603](/files/syllabus/3361603.pdf)         |
+
 ## Autumn 2021
+
+| Subject                           | Semester    |Subject Code and Syllabus                       |
+| --------                          | ----------- | ---------------------------------------------- |
+| Static Webpage Design             | I           | [4311603](/files/syllabus/4311603.pdf)         |
+| Computer Graphics                 | III         | [3331602](/files/syllabus/3331602.pdf)         |
 
 ## Spring 2020
 
