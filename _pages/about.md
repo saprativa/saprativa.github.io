@@ -10,6 +10,8 @@ redirect_from:
 
 Welcome to my homepage! I am a first year PhD student in the Computer Science and Engineering Department of [IIT Bombay](https://www.iitb.ac.in/). I am also a Lecturer in Information Technology at [Government Polytechnic Daman](https://gpdaman.in/). I was selected for the Lecturer position through [UPSC](https://www.upsc.gov.in/). Prior to that, I worked as an Assistant Professor at [Sikkim Manipal Institute of Technology](https://smu.edu.in/smit.html/). During my M.Tech. I worked on an industry sponsored project on Sentiment Analysis at [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/). I completed my undergrad and postgrad from [Assam University, Silchar](http://www.aus.ac.in/).
 
+I love travelling and doing photography whenever I am free.
+
 
 ## Contact Me
 Contact me by email at: `saprativa@cse.iitb.ac.in` or `saprativa@gmail.com`.
