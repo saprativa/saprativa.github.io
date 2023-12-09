@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I will be starting my PhD in Natural Language Processing at [IIT Bombay](https://www.iitb.ac.in/) from July 2023. I am also a Lecturer in Information Technology at [Government Polytechnic Daman](https://gpdaman.in/). I was selected for the Lecturer position through [UPSC](https://www.upsc.gov.in/). Prior to that, I worked as an Assistant Professor at [Sikkim Manipal Institute of Technology](https://smu.edu.in/smit.html/). During my M.Tech. I worked on an industry sponsored project on Sentiment Analysis at [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/). I completed my undergrad and postgrad from [Assam University, Silchar](http://www.aus.ac.in/).
+Welcome to my homepage! I am a first year PhD student in the Computer Science and Engineering Department of [IIT Bombay](https://www.iitb.ac.in/). I am also a Lecturer in Information Technology at [Government Polytechnic Daman](https://gpdaman.in/). I was selected for the Lecturer position through [UPSC](https://www.upsc.gov.in/). Prior to that, I worked as an Assistant Professor at [Sikkim Manipal Institute of Technology](https://smu.edu.in/smit.html/). During my M.Tech. I worked on an industry sponsored project on Sentiment Analysis at [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/). I completed my undergrad and postgrad from [Assam University, Silchar](http://www.aus.ac.in/).
 
 
 ## Contact Me
-Contact me by email at: `saprativa.bhatt@gov.in` or `saprativa@gmail.com`.
+Contact me by email at: `saprativa@cse.iitb.ac.in` or `saprativa@gmail.com`.
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
@@ -25,11 +25,11 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+6. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
