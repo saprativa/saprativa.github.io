@@ -8,13 +8,32 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I am a first year PhD student in the Computer Science and Engineering Department of [IIT Bombay](https://www.iitb.ac.in/). I am also a Lecturer in Information Technology at [Government Polytechnic Daman](https://gpdaman.in/). I was selected for the Lecturer position through [UPSC](https://www.upsc.gov.in/). Prior to that, I worked as an Assistant Professor at [Sikkim Manipal Institute of Technology](https://smu.edu.in/smit.html/). During my M.Tech. I worked on an industry sponsored project on Sentiment Analysis at [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/). I completed my undergrad and postgrad from [Assam University, Silchar](http://www.aus.ac.in/).
+Welcome to my homepage! I am a first year PhD student in the Computer Science and Engineering Department of [IIT Bombay](https://www.iitb.ac.in/). I am on study leave from my Lecturer position in Information Technology at [Government Polytechnic Daman](https://gpdaman.in/). I was selected for the Lecturer position through [UPSC](https://www.upsc.gov.in/). Prior to that, I worked as an Assistant Professor at [Sikkim Manipal Institute of Technology](https://smu.edu.in/smit.html/). During my M.Tech. I worked on an industry sponsored project on Sentiment Analysis at [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/). I completed my Bachelors and Masters from [Assam University, Silchar](http://www.aus.ac.in/).
 
-I love travelling and doing photography whenever I am free.
+In the field of Natural Language Processing, I have worked on Scholarly Document Processing, Legal Document Processing, Novelty Detection, Sentiment Analysis and Dialogue Summarization.
+
+In my free time, I love to travel and take photographs (see my Instagram profile).
+
+
+## Collaborations
+I have collaborated with the following people and organizations:
+
+1. Airtel, India
+2. Tech Mahindra, India
+3. Lexitas, USA
+4. Dr. Tirthankar Ghosal, Oak Ridge National Laboratory, USA
+5. Dr. Ujjwal Bhattacharya, ISI Kolkata, India
+6. Dr. Swapan Kumar Parui, ISI Kolkata, India
+7. Dr. Sudipta Roy, Assam University Silchar, India
+8. Dr. Asif Ekbal, IIT Patna, India
+9. Dr. Anirban Das, IIIT Guwahati, India
+10. Dr. Deepjyoti Choudhury, Manipal Jaipur, India
+11. Kartik Shinde, IIT Patna, India
+
 
 
 ## Contact Me
-Contact me by email at: `saprativa@cse.iitb.ac.in` or `saprativa@gmail.com`.
+The fastest way to contact me is via email at: `saprativa@cse.iitb.ac.in` or `saprativa@gmail.com`. I would usually respond withing 24 hours.
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
