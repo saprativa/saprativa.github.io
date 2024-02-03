@@ -12,7 +12,29 @@ Welcome to my homepage! I am a first year PhD student in the Computer Science an
 
 In the field of Natural Language Processing, I have worked on Scholarly Document Processing, Legal Document Processing, Novelty Detection, Sentiment Analysis and Dialogue Summarization.
 
-In my free time, I love to travel and take photographs (see my Instagram profile).
+In my free time, I love to travel and take photographs (see my Instagram profile). On social media, I am most active on LinkedIn and least active on Facebook.
+
+## PhD Journey
+
+### Second Semester
+
+In second semester I am doing the following courses:
+
+| Course Name                                            | Code        | Professor                   |
+| --------------------------------------------------     | ----------- | ----------------------------|
+| Organization of Web Information                        | CS 728      | Soumen Chakraborty          |
+| Deep Learning for Natural Language Processing          | CS 772      | Pushpak Bhattacharyya       |
+
+
+### First Semester
+
+I had taken the following courses for my coursework in the first semester:
+
+| Course Name                                            | Code        | Professor                   |
+| --------------------------------------------------     | ----------- | ----------------------------|
+| Speech and Natural Language Processing and the Web     | CS 626      | Pushpak Bhattacharyya       |
+| Information Retrieval & Mining for Hypertext & the Web | CS 635      | Soumen Chakraborty          |
+| Foundations of Machine Learning                        | CS 725      | Sunita Sarawgi              |
 
 
 ## Collaborations

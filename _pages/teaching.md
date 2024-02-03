@@ -11,6 +11,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+## Autumn 2023 - Present
+
+On study leave.
+
 ## Spring 2022
 
 | Subject                           | Semester    |Subject Code and Syllabus                       |
