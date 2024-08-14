@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Namaste. Welcome to my homepage! I am a first year PhD student in the Computer Science and Engineering Department of [IIT Bombay](https://www.iitb.ac.in/). I am on study leave from my Lecturer position in Information Technology at [Government Polytechnic Daman](https://gpdaman.in/). I was selected for the Lecturer position through [UPSC](https://www.upsc.gov.in/). Prior to that, I worked as an Assistant Professor at [Sikkim Manipal Institute of Technology](https://smu.edu.in/smit.html/). During my M.Tech. I worked on an industry sponsored project on Sentiment Analysis at [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/). I completed my Bachelors and Masters from [Assam University, Silchar](http://www.aus.ac.in/).
+Namaste. Welcome to my homepage! I am a second year PhD student in the Computer Science and Engineering Department of [IIT Bombay](https://www.iitb.ac.in/). I am on study leave from my Lecturer position in Information Technology at [Government Polytechnic Daman](https://gpdaman.in/). I was selected for the Lecturer position through [UPSC](https://www.upsc.gov.in/). Prior to that, I worked as an Assistant Professor at [Sikkim Manipal Institute of Technology](https://smu.edu.in/smit.html/). During my M.Tech. I worked on an industry sponsored project on Sentiment Analysis at [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/). I completed my Bachelors and Masters from [Assam University, Silchar](http://www.aus.ac.in/).
 
 In the field of Natural Language Processing, I have worked on Scholarly Document Processing, Legal Document Processing, Novelty Detection, Sentiment Analysis and Dialogue Summarization.
 
