@@ -8,19 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Namaste. Welcome to my homepage! I am a second year PhD student in the Computer Science and Engineering Department of [IIT Bombay](https://www.iitb.ac.in/). I am on study leave from my Lecturer position in Information Technology at [Government Polytechnic Daman](https://gpdaman.in/). I was selected for the Lecturer position through [UPSC](https://www.upsc.gov.in/). Prior to that, I worked as an Assistant Professor at [Sikkim Manipal Institute of Technology](https://smu.edu.in/smit.html/). During my M.Tech. I worked on an industry sponsored project on Sentiment Analysis at [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/). I completed my Bachelors and Masters from [Assam University, Silchar](http://www.aus.ac.in/).
+# Namaste
+
+Welcome to my homepage! I am a second year PhD student in the Computer Science and Engineering Department of [IIT Bombay](https://www.iitb.ac.in/). I am on study leave from my Lecturer position in Information Technology at [Government Polytechnic Daman](https://gpdaman.in/). I was selected for the Lecturer position through [UPSC](https://www.upsc.gov.in/). Prior to that, I worked as an Assistant Professor at [Sikkim Manipal Institute of Technology](https://smu.edu.in/smit.html/). During my M.Tech. I worked on an industry sponsored project on Sentiment Analysis at [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/). I completed my Bachelors and Masters from [Assam University, Silchar](http://www.aus.ac.in/).
 
 In the field of Natural Language Processing, I have worked on Scholarly Document Processing, Legal Document Processing, Novelty Detection, Sentiment Analysis and Dialogue Summarization.
 
 In my free time, I love to travel and take photographs (see my Instagram profile). On social media, I am most active on LinkedIn and least active on Facebook.
 
-## PhD Journey
+# PhD Journey
 
-### Third Semester (Autumn 2024)
+## Third Semester (Autumn 2024)
 
 I have completed my coursework requirements and am ready to register my PhD. Will update this section as soon as I am registered.
 
-### Second Semester (Spring 2024)
+## Second Semester (Spring 2024)
 
 In second semester I took following course:
 
@@ -29,7 +31,7 @@ In second semester I took following course:
 | Deep Learning for Natural Language Processing          | CS 772      | Pushpak Bhattacharyya       |
 
 
-### First Semester (Autumn 2023)
+## First Semester (Autumn 2023)
 
 I had taken the following courses for my coursework in the first semester:
 
@@ -40,7 +42,7 @@ I had taken the following courses for my coursework in the first semester:
 | Foundations of Machine Learning                        | CS 725      | Sunita Sarawgi              |
 
 
-## Contact Me
+# Contact Me
 The fastest way to contact me is via email at (either/both): 
 `saprativa@cse.iitb.ac.in`  
 `saprativa@gmail.com`
