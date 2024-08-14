@@ -16,11 +16,11 @@ In my free time, I love to travel and take photographs (see my Instagram profile
 
 ## PhD Journey
 
-### Third Semester (Autumn 2024-25)
+### Third Semester (Autumn 2024)
 
 I have completed my coursework requirements and am ready to register my PhD. Will update this section as soon as I am registered.
 
-### Second Semester (Spring 2023-24)
+### Second Semester (Spring 2024)
 
 In second semester I took following course:
 
@@ -29,7 +29,7 @@ In second semester I took following course:
 | Deep Learning for Natural Language Processing          | CS 772      | Pushpak Bhattacharyya       |
 
 
-### First Semester (Autumn 2023-24)
+### First Semester (Autumn 2023)
 
 I had taken the following courses for my coursework in the first semester:
 
