@@ -40,23 +40,6 @@ I had taken the following courses for my coursework in the first semester:
 | Foundations of Machine Learning                        | CS 725      | Sunita Sarawgi              |
 
 
-## Collaborations
-I have collaborated with the following people and organizations:
-
-1. Airtel, India
-2. Tech Mahindra, India
-3. Lexitas, USA
-4. Dr. Tirthankar Ghosal, Oak Ridge National Laboratory, USA
-5. Dr. Ujjwal Bhattacharya, ISI Kolkata, India
-6. Dr. Swapan Kumar Parui, ISI Kolkata, India
-7. Dr. Sudipta Roy, Assam University Silchar, India
-8. Dr. Asif Ekbal, IIT Patna, India
-9. Dr. Anirban Das, IIIT Guwahati, India
-10. Dr. Deepjyoti Choudhury, Manipal Jaipur, India
-11. Kartik Shinde, IIT Patna, India
-
-
-
 ## Contact Me
 The fastest way to contact me is via email at: `saprativa@cse.iitb.ac.in` or `saprativa@gmail.com`. I would usually respond withing 24 hours.
 
