@@ -16,6 +16,10 @@ In the field of Natural Language Processing, I have worked on Scholarly Document
 
 In my free time, I love to travel and take photographs (see my Instagram profile). On social media, I am most active on LinkedIn and least active on Facebook.
 
+# News
+
+September 2024: Received travel grant for attending IndoML at Goa.
+
 # PhD Journey
 
 ## Third Semester (Autumn 2024)
@@ -24,7 +28,7 @@ I have completed my coursework requirements and am ready to register my PhD. Wil
 
 ## Second Semester (Spring 2024)
 
-In second semester I took following course:
+In the second semester I took the following course:
 
 | Course Name                                            | Code        | Professor                   |
 | --------------------------------------------------     | ----------- | ----------------------------|
