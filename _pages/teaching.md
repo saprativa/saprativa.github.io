@@ -11,11 +11,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## Summer 2023 - Present
+## Autumn 2023-24 to Present
 
 On study leave.
 
-## Winter 2023
+## Spring 2022-23
 
 | Subject                           | Semester    |Subject Code and Syllabus                       |
 | --------                          | ----------- | ---------------------------------------------- |
@@ -23,35 +23,35 @@ On study leave.
 | Web Development using PHP         | IV          | [4341604](/files/syllabus/4341604.pdf)         |
 | Web Designing using PHP and MySQL | VI          | [3361603](/files/syllabus/3361603.pdf)         |
 
-## Summer 2022
+## Autumn 2022-23
 
 | Subject                           | Semester    |Subject Code and Syllabus                       |
 | --------                          | ----------- | ---------------------------------------------- |
 | Static Webpage Design             | I           | [4311603](/files/syllabus/4311603.pdf)         |
 | Data Structure with Python        | III         | [4331601](/files/syllabus/4331601.pdf)         |
 
-## Winter 2022
+## Spring 2021-22
 
 | Subject                             | Semester    |Subject Code and Syllabus                       |
 | --------                            | ----------- | ---------------------------------------------- |
 | Information Communication Technology| IV          | [3341601](/files/syllabus/3341601.pdf)         |
 | Web Designing using PHP and MySQL   | VI          | [3361603](/files/syllabus/3361603.pdf)         |
 
-## Summer 2021
+## Autumn 2021-22
 
 | Subject                           | Semester    |Subject Code and Syllabus                       |
 | --------                          | ----------- | ---------------------------------------------- |
 | Static Webpage Design             | I           | [4311603](/files/syllabus/4311603.pdf)         |
 | Computer Graphics                 | III         | [3331602](/files/syllabus/3331602.pdf)         |
 
-## Winter 2021
+## Spring 2020-21
 
 | Subject                             | Semester    |Subject Code and Syllabus                       |
 | --------                            | ----------- | ---------------------------------------------- |
 | Information Communication Technology| IV          | [3341601](/files/syllabus/3341601.pdf)         |
 | Web Designing using PHP and MySQL   | VI          | [3361603](/files/syllabus/3361603.pdf)         |
 
-## Summer 2020
+## Autumn 2020-21
 
 | Subject                           | Semester    |Subject Code and Syllabus                       |
 | --------                          | ----------- | ---------------------------------------------- |
@@ -59,28 +59,28 @@ On study leave.
 | Computer Graphics                 | III         | [3331602](/files/syllabus/3331602.pdf)         |
 
 
-## Winter 2020
+## Spring 2019-20
 
 | Subject                             | Semester    |Subject Code and Syllabus                       |
 | --------                            | ----------- | ---------------------------------------------- |
 | Information Communication Technology| IV          | [3341601](/files/syllabus/3341601.pdf)         |
 | Web Designing using PHP and MySQL   | VI          | [3361603](/files/syllabus/3361603.pdf)         |
 
-## Summer 2019
+## Autumn 2019-20
 
 | Subject                           | Semester    |Subject Code and Syllabus                       |
 | --------                          | ----------- | ---------------------------------------------- |
 | Fundamental Computer Application  | I           | [3310703](/files/syllabus/3310703.pdf)         |
 | Computer Graphics                 | III         | [3331602](/files/syllabus/3331602.pdf)         |
 
-## Winter 2019
+## Spring 2018-19
 
 | Subject                             | Semester    |Subject Code and Syllabus                       |
 | --------                            | ----------- | ---------------------------------------------- |
 | Information Communication Technology| IV          | [3341601](/files/syllabus/3341601.pdf)         |
 | Object Oriented Programming         | IV          | [3341602](/files/syllabus/3341602.pdf)         |
 
-## Summer 2018
+## Autumn 2018-19
 
 | Subject                                       | Semester    |Subject Code and Syllabus                 |
 | --------                                      | ----------- | -----------------------------------------|
@@ -88,27 +88,27 @@ On study leave.
 | Computer Programming Lab                      | I           | [3310701](/files/syllabus/3310701.pdf)   |
 | Computer Graphics                             | III         | [3331602](/files/syllabus/3331602.pdf)   |
 
-## Winter 2018
+## Spring 2017-18
 
 | Subject                                    | Semester    |Subject Code and Syllabus                    |
 | --------                                   | ----------- | --------------------------------------------|
 | Advanced Computer Programming Lab          | II          | [3320702](/files/syllabus/3320702.pdf)      |
 | Information Communication Technology Theory| IV          | [3341601](/files/syllabus/3341601.pdf)      |
 
-## Summer 2017
+## Autumn 2017-18
 
 | Subject                                       | Semester    |Subject Code and Syllabus                 |
 | --------                                      | ----------- | -----------------------------------------|
 | Computer Programming                          | I           | [3310701](/files/syllabus/3310701.pdf)   |
 
 
-## Winter 2015 at National Institute of Technology Sikkim
+## Spring 2014-15 at National Institute of Technology Sikkim
 
 | Subject                                       | Semester    |Subject Code and Syllabus                 |
 | --------                                      | ----------- | -----------------------------------------|
 | Computer Networks                             | VI          | [EC3023](/files/syllabus/EC3023.pdf)     |
 
 
-## Summer 2013 to Winter 2017 at Sikkim Manipal Institute of Technology
+## Autumn 2013-14 to Spring 2016-17 at Sikkim Manipal Institute of Technology
 
 I taught the following subjects: Data Communication, Software Engineering, Microprocessor Lab, Microcontroller, Digital Circuits and Logic Design, Formal Language and Automata, Databse Management Systems Lab, Operating System, System Programming, Web Technology & Web Services.

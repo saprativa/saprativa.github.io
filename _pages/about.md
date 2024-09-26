@@ -22,11 +22,13 @@ September 2024: Received travel grant for attending IndoML at Goa.
 
 # PhD Journey
 
-## Third Semester (Autumn 2024)
+## Third Semester (Autumn 2024-25)
 
-I have completed my coursework requirements and am ready to register my PhD. Will update this section as soon as I am registered.
+I am fortunate to have registered under the supervision of [Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/) and [Prof. Biplab Banerjee](https://biplab-banerjee.github.io/).
 
-## Second Semester (Spring 2024)
+
+
+## Second Semester (Spring 2023-24)
 
 In the second semester I took the following course:
 
@@ -35,7 +37,7 @@ In the second semester I took the following course:
 | Deep Learning for Natural Language Processing          | CS 772      | Pushpak Bhattacharyya       |
 
 
-## First Semester (Autumn 2023)
+## First Semester (Autumn 2023-24)
 
 I had taken the following courses for my coursework in the first semester:
 
