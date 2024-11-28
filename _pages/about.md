@@ -18,7 +18,8 @@ In my free time, I love to travel and take photographs (see my Instagram profile
 
 # News
 
-September 2024: Received travel grant for attending IndoML at Goa.
+Nov 2024: Lab's SPOC for TechConnect 2024, IITB.
+Sep 2024: Received travel grant for attending IndoML at Goa.
 
 # PhD Journey
 
