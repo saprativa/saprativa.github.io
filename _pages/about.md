@@ -17,10 +17,9 @@ In the field of Natural Language Processing, I have worked on Scholarly Document
 In my free time, I love to travel and take photographs (see my Instagram profile). On social media, I am most active on LinkedIn and least active on Facebook.
 
 # News
-
-Nov 2024: Lab's SPOC for TechConnect 2024, IITB.
-
-Sep 2024: Received travel grant for attending IndoML at Goa.
+- Dec 2024: Received ACM travel grant for attending PIC 2025 at Mysore, India
+- Nov 2024: CFILT Lab's SPOC for TechConnect 2024 at IIT Bombay
+- Sep 2024: Received travel grant for attending IndoML 2024 at Goa, India
 
 # PhD Journey
 
