@@ -27,11 +27,17 @@ In my free time, I love to travel and take photographs (see my Instagram profile
 
 
 # PhD Journey
+## Fourth Semester (Spring 2024-25)
+
+Attended Pingala Interactions in Comuputing 2025 at Mysore, India:
+
+![PIC 2025](images/PIC25.png)
+
 ## Third Semester (Autumn 2024-25)
 
 I am fortunate to have registered under the supervision of [Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/) and [Prof. Biplab Banerjee](https://biplab-banerjee.github.io/).
 
-Attended IndoML 2024 at Goa:
+Attended IndoML 2024 at Goa, India:
 
 ![IndoML 2024](images/IndoML.jpeg)
 
