@@ -19,6 +19,7 @@ In my free time, I love to travel and take photographs (see my Instagram profile
 
 
 # News
+- Mar 2025: Selected for MLSS^D 2025 to be held at Krakow, Poland.
 - Dec 2024: Received ACM travel grant for attending PIC 2025 at Mysore, India
 - Nov 2024: CFILT Lab's SPOC for TechConnect 2024 at IIT Bombay
 - Sep 2024: Received travel grant for attending IndoML 2024 at Goa, India
