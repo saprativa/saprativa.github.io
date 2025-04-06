@@ -29,9 +29,9 @@ In my free time, I love to travel and take photographs (see my Instagram profile
 # PhD Journey
 ## Fourth Semester (Spring 2024-25)
 
-Attended Pingala Interactions in Comuputing 2025 at Mysore, India:
+Attended Pingala Interactions in Computing 2025 at Mysore, India:
 
-![PIC 2025](images/PIC25.png)
+![PIC 2025](images/PIC25.jpeg)
 
 ## Third Semester (Autumn 2024-25)
 
