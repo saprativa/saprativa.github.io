@@ -19,6 +19,7 @@ In my free time, I love to travel and take photographs (see my Instagram profile
 
 
 # News
+- May 2025: Our Humblebragging paper got accepted to ACL 2025 Findings
 - Apr 2025: Selected for MLSS 2025 to be held at Dakar, Senegal
 - Mar 2025: Selected for MLSS^D 2025 to be held at Krakow, Poland
 - Dec 2024: Received ACM travel grant for attending PIC 2025 at Mysore, India
