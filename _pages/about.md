@@ -20,8 +20,8 @@ In my free time, I love to travel and take photographs (see my Instagram profile
 
 # News
 - May 2025: Our Humblebragging paper got accepted to ACL 2025 Findings
-- Apr 2025: Selected for MLSS 2025 to be held at Dakar, Senegal
-- Mar 2025: Selected for MLSS^D 2025 to be held at Krakow, Poland
+- Apr 2025: Shortlisted for attending MLSS 2025 to be held at Dakar, Senegal
+- Mar 2025: Shortlisted for attending MLSS^D 2025 to be held at Krakow, Poland
 - Dec 2024: Received ACM travel grant for attending PIC 2025 at Mysore, India
 - Nov 2024: Selected as CFILT Lab's SPOC for TechConnect 2024 at IIT Bombay
 - Sep 2024: Received travel grant for attending IndoML 2024 at Goa, India
@@ -30,6 +30,10 @@ In my free time, I love to travel and take photographs (see my Instagram profile
 
 # PhD Journey
 ## Fourth Semester (Spring 2024-25)
+
+Our paper on Humblebragging got accepted to ACL 2025 Findings:
+
+![HB](../images/humblebragging.pdf)
 
 Attended Pingala Interactions in Computing 2025 at Mysore, India:
 
