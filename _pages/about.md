@@ -64,12 +64,3 @@ I had taken the following courses for my coursework in the first semester:
 | Foundations of Machine Learning                        | CS 725      | Sunita Sarawgi              |
 
 
-
-
-# Contact Me
-The fastest way to contact me is via email, I would usually respond withing 24 hours: 
-
-`saprativa@cse.iitb.ac.in`  
-
-`saprativa@gmail.com`
-
