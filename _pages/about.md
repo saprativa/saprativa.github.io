@@ -33,7 +33,7 @@ In my free time, I love to travel and take photographs (see my Instagram profile
 
 Our paper on Humblebragging got accepted to ACL 2025 Findings:
 
-![HB](../images/humblebragging.pdf)
+![HB](../images/humblebragging.png)
 
 Attended Pingala Interactions in Computing 2025 at Mysore, India:
 
