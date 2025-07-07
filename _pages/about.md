@@ -35,7 +35,9 @@ Our paper on Humblebragging got accepted to ACL 2025 Findings:
 
 ![HB](../images/humblebragging.png)
 
-Attended Pingala Interactions in Computing 2025 at Mysore, India:
+Read the [preprint here](https://arxiv.org/abs/2412.20057).
+
+Attended Pingala Interactions in Computing 2025 at Mysore, India and had a lot of fun:
 
 ![PIC 2025](images/PIC25.jpeg)
 
