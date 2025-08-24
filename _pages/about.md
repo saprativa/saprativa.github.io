@@ -19,6 +19,7 @@ In my free time, I love to travel and take photographs (see my Instagram profile
 
 
 # News
+- Aug 2025: Our Depression Relapse work got accepted to EMNLP 2025 Main 
 - May 2025: Our Humblebragging paper got accepted to ACL 2025 Findings
 - Apr 2025: Shortlisted for attending MLSS 2025 to be held at Dakar, Senegal
 - Mar 2025: Shortlisted for attending MLSS^D 2025 to be held at Krakow, Poland
